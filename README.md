@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Savant404
 - 👀 I’m interested in: 
-  I'm intrested in pretty much anything to do with technology, wheter it be programming, networking, sercurity and hardware. I'm profiecent in the following technologies
+- 
+  I'm intrested in pretty much anything to do with technology, whether it be programming, networking, security and hardware. I'm profiecent in the following technologies
     - Python
     - Javascript 
     - c# 

@@ -7,10 +7,6 @@
     - c# 
     - SQL
 
-- 🌱 I’m currently learning ...
-    - Flutter 
-    - React 
-    - Blazor 
     
 
 - 💞️ I’m looking to collaborate on ...
